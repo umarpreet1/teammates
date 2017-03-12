@@ -1,6 +1,1023 @@
 {
   "contributors": [
+    {
+      "name": "@julian1990",
+      "username": "julian1990",
+      "multiple": true
+    },
+    {
+      "name": "@nockc",
+      "username": "nockc",
+      "multiple": false
+    },
+    {
+      "name": "@theaverageguy",
+      "username": "theaverageguy",
+      "multiple": false
+    },
+    {
+      "name": "A Sai Krishna",
+      "username": "iamsk9",
+      "multiple": false
+    },
+    {
+      "name": "Abdurahman Sherif",
+      "username": "DevOpt",
+      "multiple": false
+    },
+    {
+      "name": "Abhishek Chaudary",
+      "username": "AbhishekChd",
+      "multiple": false
+    },
+    {
+      "name": "Abhishek Maiti",
+      "username": "ovshake",
+      "multiple": false
+    },
+    {
+      "name": "Adam Jones",
+      "username": "domdomegg",
+      "multiple": true
+    },
+    {
+      "name": "Adarsh Khubchandani",
+      "username": "askhubchandani",
+      "multiple": false
+    },
+    {
+      "name": "Aditya Jain",
+      "username": "95adityajain",
+      "multiple": false
+    },
+    {
+      "name": "Akshay Vijayvergia",
+      "username": "slidego",
+      "multiple": false
+    },
+    {
+      "name": "Alexander Levy",
+      "username": "allevy3",
+      "multiple": false
+    },
+    {
+      "name": "Alexandr Kolymago",
+      "username": "justtimki",
+      "multiple": false
+    },
+    {
+      "name": "Aman Dhaliwal",
+      "username": "a-dhaliwal",
+      "multiple": false
+    },
+    {
+      "name": "Anagh Hegde",
+      "username": "AnaghHegde",
+      "multiple": true
+    },
+    {
+      "name": "Anand Singh",
+      "username": "hackosinn",
+      "multiple": true
+    },
+    {
+      "name": "Andrew Hunter",
+      "username": "iamhunter",
+      "multiple": false
+    },
+    {
+      "name": "Ang Ji Kai",
+      "multiple": true
+    },
+    {
+      "name": "Ang Jin Juan Gabriel",
+      "multiple": true
+    },
+    {
+      "name": "Ang Nickolas",
+      "multiple": true
+    },
+    {
+      "name": "Angie Jones",
+      "username": "angiejones",
+      "multiple": false
+    },
+    {
+      "name": "Anirudh Jain",
+      "username": "sponde25",
+      "multiple": false
+    },
+    {
+      "name": "Anoop Shukla",
+      "username": "weaveranoop",
+      "multiple": true
+    },
+    {
+      "name": "Anthony Schneider",
+      "username": "Br35Ba56",
+      "multiple": false
+    },
+    {
+      "name": "Anubhav Shrivastava",
+      "multiple": true
+    },
+    {
+      "name": "Aravind Putrevu",
+      "username": "AravindPutrevu",
+      "multiple": false
+    },
+    {
+      "name": "Arvind Kalyan",
+      "username": "arvind-kalyan",
+      "multiple": true
+    },
+    {
+      "name": "Ashwin Oke",
+      "username": "okeashwin",
+      "multiple": false
+    },
+    {
+      "name": "Atheesan Sornalingam",
+      "multiple": false
+    },
+    {
+      "name": "Atishay Jain",
+      "username": "atishay100495",
+      "multiple": true
+    },
+    {
+      "name": "Avijit Gupta",
+      "username": "526avijitgupta",
+      "multiple": false
+    },
+    {
+      "name": "Billy Zafack",
+      "username": "BillyZafack",
+      "multiple": false
+    },
+    {
+      "name": "Bruno Mendes",
+      "username": "brnomendes",
+      "multiple": false
+    },
+    {
+      "name": "Chan Junwei",
+      "multiple": false
+    },
+    {
+      "name": "Chao Song",
+      "username": "songchoa",
+      "multiple": false
+    },
+    {
+      "name": "Chen Di",
+      "username": "sundychenD",
+      "multiple": true
+    },
+    {
+      "name": "Chen Shenglong Bryan",
+      "multiple": true
+    },
+    {
+      "name": "Chen Zhuo",
+      "username": "chen-zhuo",
+      "multiple": true
+    },
+    {
+      "name": "Cheung Yew Kong Benjamin",
+      "multiple": true
+    },
+    {
+      "name": "Chi Cheng",
+      "username": "cc-leon",
+      "multiple": true
+    },
+    {
+      "name": "Chin Yong Wei",
+      "multiple": true
+    },
+    {
+      "name": "Chong Kok Wei",
+      "multiple": true
+    },
+    {
+      "name": "Chua Hong Jing",
+      "multiple": true
+    },
+    {
+      "name": "Chua Jie Sheng",
+      "multiple": true
+    },
+    {
+      "name": "Chua Peng Chin Benson",
+      "multiple": true
+    },
+    {
+      "name": "Connor Kendrick",
+      "username": "connorkendrick",
+      "multiple": false
+    },
+    {
+      "name": "Daryl Lim",
+      "multiple": true
+    },
+    {
+      "name": "Devang Gaur",
+      "username": "dg711",
+      "multiple": true
+    },
+    {
+      "name": "Dhiren Patil",
+      "username": "dp80",
+      "multiple": false
+    },
+    {
+      "name": "Dilan Tharaka",
+      "username": "tharakamd",
+      "multiple": false
+    },
+    {
+      "name": "Dinesh Thangavel",
+      "multiple": true
+    },
+    {
+      "name": "Divya Pandilla",
+      "username": "pandilladivya",
+      "multiple": true
+    },
+    {
+      "name": "Dong Yanfei",
+      "multiple": true
+    },
+    {
+      "name": "Du Lingyi",
+      "multiple": true
+    },
+    {
+      "name": "Dustin Lapierre",
+      "username": "dustinlapierre",
+      "multiple": false
+    },
+    {
+      "name": "Fazil",
+      "username": "halfdreamer",
+      "multiple": true
+    },
+    {
+      "name": "Foo Yong Jie",
+      "multiple": true
+    },
+    {
+      "name": "Fred Xu",
+      "username": "fairbet",
+      "multiple": false
+    },
+    {
+      "name": "Gable Heng",
+      "username": "gableh",
+      "multiple": false
+    },
+    {
+      "name": "Gautam Dudeja",
+      "username": "theDiablo",
+      "multiple": false
+    },
+    {
+      "name": "Gonçalo Garcia",
+      "username": "GGfpc",
+      "multiple": false
+    },
+    {
+      "name": "Guan Xiaokang",
+      "multiple": true
+    },
+    {
+      "name": "Guga Katsiashvili",
+      "username": "gugakatsi",
+      "multiple": false
+    },
+    {
+      "name": "Han Zijian",
+      "username": "ihenria",
+      "multiple": true
+    },
+    {
+      "name": "Harshvardhan Singh",
+      "username": "Harshvardhan58",
+      "multiple": false
+    },
+    {
+      "name": "Hiresh Trivedi",
+      "username": "hiresh",
+      "multiple": false
+    },
+    {
+      "name": "Hoo De Lin",
+      "username": "HooDeLin",
+      "multiple": false
+    },
+    {
+      "name": "Hou Guochen",
+      "multiple": true
+    },
+    {
+      "name": "Huang Guanyang Eugene",
+      "multiple": true
+    },
+    {
+      "name": "Huynh Van Quang",
+      "multiple": true
+    },
+    {
+      "name": "Irene Tenison",
+      "username": "ireneten",
+      "multiple": false
+    },
+    {
+      "name": "Jake Akers",
+      "username": "jakers821",
+      "multiple": false
+    },
+    {
+      "name": "Jarvis Nguyen",
+      "username": "jarvis57",
+      "multiple": true
+    },
+    {
+      "name": "Jaspreet Singh",
+      "username": "jp111",
+      "multiple": false
+    },
+    {
+      "name": "Jayant Jain",
+      "multiple": false
+    },
+    {
+      "name": "Jiang Sheng",
+      "username": "Gisonrg",
+      "multiple": true
+    },
+    {
+      "name": "Jiang Yaoxuan",
+      "multiple": true
+    },
+    {
+      "name": "Jonathan Lim",
+      "username": "jonathanlimsc",
+      "multiple": false
+    },
+    {
+      "name": "Joshua Lee",
+      "username": "lejolly",
+      "multiple": true
+    },
+    {
+      "name": "Justin Ouyang",
+      "multiple": false
+    },
+    {
+      "name": "Kaitlyn Wehrheim",
+      "username": "kwehrheim",
+      "multiple": false
+    },
+    {
+      "name": "Karan Kamath",
+      "multiple": true
+    },
+    {
+      "name": "Karandeep Singh Bhatia",
+      "username": "karan173",
+      "multiple": true
+    },
+    {
+      "name": "Karthik",
+      "username": "karthikaacharya",
+      "multiple": false
+    },
+    {
+      "name": "Kenny Zhao",
+      "username": "kennyzha",
+      "multiple": false
+    },
+    {
+      "name": "Kevin Thich",
+      "username": "k-thich",
+      "multiple": false
+    },
+    {
+      "name": "Koh Xian Hui",
+      "username": "XianHuiKoh",
+      "multiple": true
+    },
+    {
+      "name": "Kseniia Solodovnik",
+      "multiple": true
+    },
+    {
+      "name": "Le Minh Khue",
+      "multiple": true
+    },
+    {
+      "name": "Le Viet Tien",
+      "multiple": true
+    },
+    {
+      "name": "Lee Lunn",
+      "username": "leelunn",
+      "multiple": true
+    },
+    {
+      "name": "Leonard Hio",
+      "username": "leonardhml",
+      "multiple": false
+    },
+    {
+      "name": "Lian Wenhui Florine",
+      "multiple": true
+    },
+    {
+      "name": "Liew Ken Hua",
+      "username": "kenhua-l",
+      "multiple": false
+    },
+    {
+      "name": "Lim Jia Yee",
+      "username": "jia1",
+      "multiple": false
+    },
+    {
+      "name": "Liu Yuanrui",
+      "multiple": true
+    },
+    {
+      "name": "Logan Smith",
+      "username": "smithla1",
+      "multiple": false
+    },
+    {
+      "name": "Loke Yan Hao",
+      "multiple": true
+    },
+    {
+      "name": "Luk Ming Kit",
+      "multiple": true
+    },
+    {
+      "name": "Mairieli Wessel",
+      "username": "mairieli",
+      "multiple": false
+    },
+    {
+      "name": "Malinda Kumarasinghe",
+      "multiple": false
+    },
+    {
+      "name": "Manish Vishnoi",
+      "username": "manishvishnoi2",
+      "multiple": false
+    },
+    {
+      "name": "Manraj Singh",
+      "username": "ManrajGrover",
+      "multiple": false
+    },
+    {
+      "name": "Manvi Jain",
+      "username": "manvijain",
+      "multiple": false
+    },
+    {
+      "name": "Maria Sam",
+      "username": "mariasam1",
+      "multiple": false
+    },
+    {
+      "name": "Marianna Sternefeld",
+      "username": "mesternefeld",
+      "multiple": false
+    },
+    {
+      "name": "Mayank Harsani",
+      "username": "Mynk96",
+      "multiple": false
+    },
+    {
+      "name": "Megan Belle",
+      "username": "onealml",
+      "multiple": false
+    },
+    {
+      "name": "Meng Lingyao",
+      "username": "lingyaomeng1",
+      "multiple": false
+    },
+    {
+      "name": "Michael Limantara",
+      "username": "mikelimantara",
+      "multiple": true
+    },
+    {
+      "name": "Mohamed Moanis",
+      "username": "mohamed-moanis",
+      "multiple": true
+    },
+    {
+      "name": "Mohit Singh Kanwal",
+      "multiple": true
+    },
+    {
+      "name": "Mukesh Gupta",
+      "username": "mukesh14149",
+      "multiple": false
+    },
+    {
+      "name": "Ng Joon Kiat Steve",
+      "multiple": true
+    },
+    {
+      "name": "Ng Zhi An",
+      "username": "ngzhian",
+      "multiple": true
+    },
+    {
+      "name": "Nguyen Khac Tung",
+      "username": "tungnk1993",
+      "multiple": false
+    },
+    {
+      "name": "Nguyen Quang Phuc",
+      "multiple": true
+    },
+    {
+      "name": "Nguyen Quoc Dat",
+      "username": "acruis",
+      "multiple": true
+    },
+    {
+      "name": "Nguyen Truong Duy",
+      "multiple": true
+    },
+    {
+      "name": "Niklas Wuensche",
+      "username": "NWuensche",
+      "multiple": false
+    },
+    {
+      "name": "Nikoletta Szedljak",
+      "username": "sznicci",
+      "multiple": true
+    },
+    {
+      "name": "Nilaksha Perera",
+      "username": "Nilaksha",
+      "multiple": false
+    },
+    {
+      "name": "Nilesh Suthar",
+      "multiple": false
+    },
+    {
+      "name": "Nisala Niroshana",
+      "username": "NisalaNiroshana",
+      "multiple": true
+    },
+    {
+      "name": "Onkar Shedge",
+      "username": "onkarshedge",
+      "multiple": false
+    },
+    {
+      "name": "P S Narayanan",
+      "username": "PSNAppz",
+      "multiple": false
+    },
+    {
+      "name": "Pak Chong Da Glen",
+      "multiple": true
+    },
+    {
+      "name": "Paramsothy Sanshayan",
+      "multiple": false
+    },
+    {
+      "name": "Peh Shao Hong",
+      "multiple": true
+    },
+    {
+      "name": "Pham Minh Viet, Victor",
+      "multiple": true
+    },
+    {
+      "name": "Phan Thi Quynh Trang",
+      "multiple": true
+    },
+    {
+      "name": "Pon Heng Wai",
+      "multiple": true
+    },
+    {
+      "name": "Pratyoush Srivastava",
+      "username": "pratyoushs",
+      "multiple": true
+    },
+    {
+      "name": "Pratyush Talreja",
+      "username": "PratyushTalreja",
+      "multiple": false
+    },
+    {
+      "name": "Prithviraj Billa",
+      "multiple": false
+    },
+    {
+      "name": "Pulasthi Harasgama",
+      "username": "Pulasthih",
+      "multiple": false
+    },
+    {
+      "name": "Qiao Zhengyuan",
+      "multiple": true
+    },
+    {
+      "name": "Qua Zi Xian",
+      "username": "ZiXian92",
+      "multiple": true
+    },
+    {
+      "name": "Raghav Sai",
+      "username": "petgoldfish",
+      "multiple": false
+    },
+    {
+      "name": "Rajat Saxena",
+      "username": "srajat",
+      "multiple": false
+    },
+    {
+      "name": "Rajiv Jha",
+      "username": "rajivjhaimin",
+      "multiple": false
+    },
+    {
+      "name": "Ratul Ghosh",
+      "username": "RatulGhosh",
+      "multiple": true
+    },
+    {
+      "name": "Richard Goulter",
+      "multiple": true
+    },
+    {
+      "name": "Rishikesh",
+      "username": "rishikksh20",
+      "multiple": false
+    },
+    {
+      "name": "Rohith Mukku",
+      "username": "Naruto8",
+      "multiple": false
+    },
+    {
+      "name": "Ruchir Sharma",
+      "username": "ruchirsharma1993",
+      "multiple": true
+    },
+    {
+      "name": "Sai Sasidhar Nimmagadda",
+      "username": "nsaiisasidhar",
+      "multiple": true
+    },
+    {
+      "name": "Samat Davletshin",
+      "username": "samatdav",
+      "multiple": true
+    },
+    {
+      "name": "Savin Varshney",
+      "username": "saav",
+      "multiple": false
+    },
+    {
+      "name": "Shawn Teo Chee Yong",
+      "multiple": true
+    },
+    {
+      "name": "Shekhar Reddy",
+      "username": "ShekharReddy4",
+      "multiple": false
+    },
+    {
+      "name": "Shiluka Dharmasena",
+      "username": "shiluka",
+      "multiple": true
+    },
+    {
+      "name": "Shiv Kandikuppa",
+      "username": "shiv12095",
+      "multiple": false
+    },
+    {
+      "name": "Shrut Patel",
+      "username": "shrut1996",
+      "multiple": true
+    },
+    {
+      "name": "Shubham Jain",
+      "username": "shubhampkj",
+      "multiple": false
+    },
+    {
+      "name": "Shubham Nishad",
+      "username": "shubhamnishad97",
+      "multiple": false
+    },
+    {
+      "name": "Shum Chee How",
+      "multiple": true
+    },
+    {
+      "name": "Siddhant Gupta",
+      "username": "Siddhant085",
+      "multiple": true
+    },
+    {
+      "name": "Sim Shengming, Eugene",
+      "multiple": true
+    },
+    {
+      "name": "Song Qiyue",
+      "multiple": true
+    },
+    {
+      "name": "Sreshta Vijayaraghavan",
+      "multiple": true
+    },
+    {
+      "name": "Sri Aurobindo Munagala",
+      "username": "Einsteino",
+      "multiple": false
+    },
+    {
+      "name": "Staniloiu Eduard",
+      "multiple": true
+    },
+    {
+      "name": "Steve Simpson",
+      "username": "stevesimpson4375",
+      "multiple": true
+    },
+    {
+      "name": "Steven Khong",
+      "multiple": false
+    },
+    {
+      "name": "Subhodip Kumar",
+      "username": "subhodip7",
+      "multiple": true
+    },
+    {
+      "name": "Sudarsan Gopalaswami Padmanabhan",
+      "multiple": true
+    },
+    {
+      "name": "Suhas Bhatt",
+      "username": "suhas355",
+      "multiple": true
+    },
+    {
+      "name": "Sujeet",
+      "username": "sujeet14108",
+      "multiple": true
+    },
+    {
+      "name": "Supraja Bhavani Sekhar",
+      "multiple": true
+    },
+    {
+      "name": "Supun Harsha Priyadarshana",
+      "username": "supunharsha",
+      "multiple": false
+    },
+    {
+      "name": "Svitlana Nesterenko",
+      "username": "SvetaNesterenko",
+      "multiple": true
+    },
+    {
+      "name": "Tainan Valentim",
+      "username": "tainansv",
+      "multiple": false
+    },
+    {
+      "name": "Tan Guo Wei",
+      "multiple": true
+    },
+    {
+      "name": "Tan Wee Kwan",
+      "multiple": true
+    },
+    {
+      "name": "Tan Wei Xin",
+      "multiple": true
+    },
+    {
+      "name": "Tan Xue Si",
+      "username": "xeia",
+      "multiple": true
+    },
+    {
+      "name": "Tang Ning",
+      "username": "ningt",
+      "multiple": true
+    },
+    {
+      "name": "Tang Zijian",
+      "username": "tangzijian",
+      "multiple": true
+    },
+    {
+      "name": "Taras Sakharchuk",
+      "username": "LimeTheCoder",
+      "multiple": true
+    },
+    {
+      "name": "Tarun Bansal",
+      "multiple": false
+    },
+    {
+      "name": "Teo Yock Swee Terence",
+      "multiple": true
+    },
+    {
+      "name": "Thng Kai Yuan",
+      "username": "thngkaiyuan",
+      "multiple": true
+    },
+    {
+      "name": "Truong Hoang Phuoc",
+      "multiple": true
+    },
+    {
+      "name": "Ujjwal Wahi",
+      "username": "ujjwalwahi",
+      "multiple": false
+    },
+    {
+      "name": "Vaibhav Desai",
+      "multiple": false
+    },
+    {
+      "name": "Vamsi Sangam",
+      "username": "VamsiSangam",
+      "multiple": false
+    },
+    {
+      "name": "Venkatesan Harish",
+      "username": "harishv7",
+      "multiple": false
+    },
+    {
+      "name": "Wang Chao",
+      "multiple": true
+    },
+    {
+      "name": "Wang Yuqing",
+      "username": "yuqingw",
+      "multiple": false
+    },
+    {
+      "name": "Warren Schrader",
+      "username": "wwSchrader",
+      "multiple": false
+    },
+    {
+      "name": "Winson Tanputraman",
+      "multiple": true
+    },
+    {
+      "name": "Wu Lifu",
+      "multiple": true
+    },
+    {
+      "name": "Wu Xiao Xiao",
+      "username": "a0129998",
+      "multiple": false
+    },
+    {
+      "name": "Xia Lu",
+      "multiple": true
+    },
+    {
+      "name": "Y V S S Santosh",
+      "username": "yvsssantosh",
+      "multiple": true
+    },
+    {
+      "name": "Yang Boxin",
+      "username": "boxin-yang",
+      "multiple": false
+    },
+    {
+      "name": "Yang Suwei",
+      "username": "swxsw",
+      "multiple": true
+    },
+    {
+      "name": "Yash Patel",
+      "username": "yash2o1o",
+      "multiple": false
+    },
+    {
+      "name": "Yasiru Nilan",
+      "username": "yasirunilan",
+      "multiple": true
+    },
+    {
+      "name": "Yen Zi Shyun",
+      "multiple": true
+    },
+    {
+      "name": "Yogen Aggarwal",
+      "multiple": true
+    },
+    {
+      "name": "Zhang Haoqiang",
+      "multiple": true
+    },
+    {
+      "name": "Zheng Pingxia",
+      "multiple": true
+    },
+    {
+      "name": "Zhu Liang",
+      "username": "paradite",
+      "multiple": true
+    }
   ],
   "committers": [
+    {
+      "name": "Ch'ng Ming Shin",
+      "username": "ablyx",
+      "startPeriod": "Jan 2017"
+    },
+    {
+      "name": "Dickson Tan",
+      "username": "Neurrone",
+      "startPeriod": "Jan 2017"
+    },
+    {
+      "name": "John Yong",
+      "username": "whipermr5",
+      "startPeriod": "Jan 2017"
+    },
+    {
+      "name": "Lee Yi Min",
+      "username": "leeyimin",
+      "startPeriod": "Jan 2017"
+    },
+    {
+      "name": "Li Kai",
+      "username": "li-kai",
+      "startPeriod": "Jan 2017"
+    },
+    {
+      "name": "Samson Tan",
+      "username": "samsontmr",
+      "startPeriod": "Jan 2017"
+    },
+    {
+      "name": "Thenaesh Elango",
+      "username": "thenaesh",
+      "startPeriod": "Jan 2017"
+    },
+    {
+      "name": "Xiao Pu",
+      "username": "xpdavid",
+      "startPeriod": "Jan 2017"
+    },
+    {
+      "name": "John Kevin Tjahjadi",
+      "username": "jkt001",
+      "startPeriod": "Jan 2016",
+      "endPeriod": "Apr 2016"
+    },
+    {
+      "name": "Kenneth Ho Chee Chong",
+      "username": "kennho",
+      "startPeriod": "Jan 2016",
+      "endPeriod": "Apr 2016"
+    },
+    {
+      "name": "Su Sumei",
+      "username": "Sumei1009",
+      "startPeriod": "Jan 2016",
+      "endPeriod": "Apr 2016"
+    },
+    {
+      "name": "Wong Yu Xuan",
+      "username": "unyoungwax",
+      "startPeriod": "Jan 2016",
+      "endPeriod": "Apr 2016"
+    }
   ]
 }
