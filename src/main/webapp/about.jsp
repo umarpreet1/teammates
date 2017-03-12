@@ -1,5 +1,9 @@
 <%@ taglib tagdir="/WEB-INF/tags" prefix="t" %>
-<t:staticPage currentPage="about">
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<c:set var="jsIncludes">
+    <script type="text/javascript" src="/js/developers.js"></script>
+</c:set>
+<t:staticPage jsIncludes="${jsIncludes}" currentPage="about">
     <div class="container">
         <section class="row">
             <h1 class="color_orange">About Us</h1>
@@ -152,6 +156,7 @@
 
         <section class="row">
             <h3>Committers:</h3>
+            <ol id="committers-current"></ol>
             <ol>
                 <li>Ch'ng Ming Shin (Jan 2017 - )</li>
                 <li>Dickson Tan (Jan 2017 - )</li>
@@ -293,6 +298,7 @@
 
         <section class="row">
             <h3>Past Committers:</h3>
+            <ol id="committers-past"></ol>
             <ol>
                 <li>John Kevin Tjahjadi (Jan 2016 - May 2016)</li>
                 <li>Kenneth Ho Chee Chong (Jan 2016 - May 2016)</li>
@@ -302,7 +308,11 @@
         </section>
 
         <section class="row">
-            <h3>Contributors:</h3>
+            <h3>Contributors</h3>
+            <h4>Multiple contributions:</h4>
+            <ol id="contributors-multiple"></ol>
+            <h4>One-time contributions:</h4>
+            <ol id="contributors-single"></ol>
             <table class="ordered-table">
                 <tr class="skip"><th colspan="2">Multiple contributions</th></tr>
                 <tr>
