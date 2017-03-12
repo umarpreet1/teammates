@@ -1,4 +1,6 @@
-/* eslint-disable no-undef */
+/* global
+FEEDBACK_QUESTION_NUMBEROFCHOICECREATED:false, FEEDBACK_QUESTION_MCQCHOICE:false
+*/
 
 function addMcqOption(questionNum) {
     const questionId = `#form_editquestion-${questionNum}`;

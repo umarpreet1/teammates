@@ -1,4 +1,6 @@
-/* eslint-disable no-undef */
+/* global
+disallowNonNumericEntries:false, BootboxWrapper:false, StatusType:false
+*/
 
 function addRubricRow(questionNum) {
     const questionId = `#form_editquestion-${questionNum}`;

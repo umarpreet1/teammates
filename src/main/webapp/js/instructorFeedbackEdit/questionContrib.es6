@@ -1,5 +1,3 @@
-/* eslint-disable no-undef */
-
 function setDefaultContribQnVisibility(questionNum) {
     const $currentQuestionTable = $(`#questionTable-${questionNum}`);
 

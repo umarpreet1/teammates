@@ -1,5 +1,3 @@
-/* eslint-disable no-undef */
-
 function roundToThreeDp(num) {
     return parseFloat(num.toFixed(3));
 }
