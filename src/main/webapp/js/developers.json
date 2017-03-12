@@ -1019,5 +1019,290 @@
       "startPeriod": "Jan 2016",
       "endPeriod": "Apr 2016"
     }
+  ],
+  "teammembers": [
+    {
+      "name": "Damith C. Rajapakse",
+      "url": "http://www.comp.nus.edu.sg/~damithch/",
+      "image": "images/teammembers/damith.png",
+      "currentPosition": "Founder, Project Mentor (2010 - )"
+    },
+    {
+      "name": "Kang Hong Jin",
+      "url": "https://github.com/kanghj",
+      "image": "images/teammembers/hongjin.png",
+      "currentPosition": "Project Mentor (June 2016 - )",
+      "pastPositions": [
+        "Project Lead (Aug 2015 - May 2016)",
+        "Snr Developer (May 2015 - Jul 2015)",
+        "Committer (Aug 2014 - Apr 2015)"
+      ]
+    },
+    {
+      "name": "Thyagesh Manikandan",
+      "url": "https://github.com/thyageshm",
+      "image": "images/teammembers/thyagesh.png",
+      "currentPosition": "Project Mentor (June 2016 - )",
+      "pastPositions": [
+        "Project Lead (Jan 2016 - May 2016)",
+        "Area Lead - Profiles (Aug 2014 - Dec 2015)",
+        "Snr Developer (June 2014 - Jul 2014)",
+        "Committer (Apr 2014 - May 2014)"
+      ]
+    },
+    {
+      "name": "Wilson Kurniawan",
+      "url": "https://github.com/wkurniawan07",
+      "image": "images/teammembers/wilson.png",
+      "currentPosition": "Project Lead (June 2016 - )",
+      "pastPositions": [
+        "Area Lead - DevOps, Results (Jan 2016 - May 2016)",
+        "Snr Developer (Aug 2015 - Dec 2015)",
+        "Committer (Apr 2015 - May 2015)"
+      ]
+    },
+    {
+      "name": "Josephine Kwa",
+      "url": "https://github.com/JosephineKwa",
+      "image": "images/teammembers/josephine.png",
+      "currentPosition": "Area Lead - UI/UX, Comments, Profiles, Courses (Jan 2016 - )",
+      "pastPositions": [
+        "Snr Developer (Aug 2015 - Dec 2015)",
+        "Committer (Feb 2015 - May 2015)"
+      ]
+    },
+    {
+      "name": "Yap Jun Hao",
+      "url": "https://github.com/junhaoyap",
+      "image": "images/teammembers/junhao.png",
+      "currentPosition": "Area Lead - DevOps, Submissions (Jan 2016 - )",
+      "pastPositions": [
+        "Snr Developer (Aug 2015 - Dec 2015)",
+        "Committer (Apr 2015 - May 2015)"
+      ]
+    },
+    {
+      "name": "Chow Yuan Bin",
+      "url": "https://github.com/chowyb",
+      "image": "images/teammembers/yuanbin.png",
+      "currentPosition": "Snr Developer (Aug 2016 - )",
+      "pastPositions": [
+        "Committer (May 2016 - Jul 2016)"
+      ]
+    },
+    {
+      "name": "Khoo Yong Jie",
+      "url": "https://github.com/YongJieYongJie",
+      "image": "images/teammembers/yongjie.png",
+      "currentPosition": "Snr Developer (Aug 2016 - )",
+      "pastPositions": [
+        "Committer (May 2016 - Jul 2016)"
+      ]
+    },
+    {
+      "name": "Lakmal Padmakumara",
+      "url": "https://github.com/rclakmal",
+      "image": "images/teammembers/lakmal.png",
+      "currentPosition": "Major Contributor (May 2016 - )"
+    },
+    {
+      "name": "Serhii Beliablia",
+      "url": "https://github.com/belyabl9",
+      "image": "images/teammembers/serhii.png",
+      "currentPosition": "Major Contributor (May 2016 - )"
+    },
+    {
+      "name": "Tarun Kumar Yadav",
+      "url": "https://github.com/tarun14110",
+      "image": "images/teammembers/tarun.png",
+      "currentPosition": "Major Contributor (May 2016 - )"
+    },
+    {
+      "name": "Low Wei Lin",
+      "url": "https://github.com/LowWeiLin",
+      "image": "images/teammembers/weilin.png",
+      "pastPositions": [
+        "Project Lead (Aug 2015 - May 2016)",
+        "Area Lead - Sessions (Aug 2014 - Jul 2015)",
+        "Snr Developer (June 2014 - Jul 2014)",
+        "Committer (Jan 2014 - Jul 2014)"
+      ]
+    },
+    {
+      "name": "Tania Chattopadhyay",
+      "url": "https://github.com/taniach",
+      "image": "images/teammembers/tania.png",
+      "pastPositions": [
+        "Area Lead - Access control, Search, Email (Jan 2016 - May 2016)",
+        "Snr Developer (Aug 2015 - Dec 2015)",
+        "Committer (Feb 2015 - May 2015)"
+      ]
+    },
+    {
+      "name": "Truong Ngoc Khanh",
+      "url": "https://github.com/bamboo3250",
+      "image": "images/teammembers/khanh.png",
+      "pastPositions": [
+        "Area Lead - Admin, Scalability (Jan 2016 - May 2016)",
+        "Snr Developer (Aug 2015 - Dec 2015)",
+        "Committer (Jan 2015 - May 2015)"
+      ]
+    },
+    {
+      "name": "Soh You Jun",
+      "url": "https://github.com/yj-soh",
+      "image": "images/teammembers/youjun.png",
+      "pastPositions": [
+        "Area Lead - UI/UX, Submissions, Courses (Jan 2016 - May 2016)",
+        "Snr Developer (Aug 2015 - Dec 2015)",
+        "Committer (Apr 2015 - May 2015)"
+      ]
+    },
+    {
+      "name": "Ashray Jain",
+      "url": "https://github.com/ashrayjain",
+      "image": "images/teammembers/ashray.png",
+      "pastPositions": [
+        "Snr Developer (Oct 2015 - May 2016)",
+        "Committer (Aug 2015 - Sep 2015)"
+      ]
+    },
+    {
+      "name": "Nimantha Baranasuriya",
+      "url": "https://github.com/nimanthab",
+      "image": "images/teammembers/nimantha.png",
+      "pastPositions": [
+        "Project Admin (2013 - 2016)"
+      ]
+    },
+    {
+      "name": "Bui Trong Nhan",
+      "url": "https://github.com/imouto1994",
+      "image": "images/teammembers/bui.png",
+      "pastPositions": [
+        "Area Lead - Scalability (Aug 2014 - Dec 2015)",
+        "Snr Developer (June 2014 - Jul 2014)",
+        "Committer (Apr 2014 - May 2014)"
+      ]
+    },
+    {
+      "name": "Xie Kai",
+      "url": "https://github.com/kai33",
+      "image": "images/teammembers/kai.png",
+      "pastPositions": [
+        "Area Lead - Comments (Aug 2014 - Dec 2015)",
+        "Snr Developer (June 2014 - Jul 2014)",
+        "Committer (Apr 2014 - May 2014)"
+      ]
+    },
+    {
+      "name": "Gu Junchao",
+      "url": "https://github.com/franklingu",
+      "image": "images/teammembers/junchao.png",
+      "pastPositions": [
+        "Area Lead - Access Control (Aug 2014 - Dec 2015)",
+        "Snr Developer (June 2014 - Jul 2014)",
+        "Committer (Apr 2014 - May 2014)"
+      ]
+    },
+    {
+      "name": "Shawn Lee",
+      "url": "https://github.com/leeshawn89",
+      "image": "images/teammembers/shawn.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Yang Mo",
+      "url": "https://github.com/ymoctavia",
+      "image": "images/teammembers/yangmo.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Arnold Koroa",
+      "url": "https://github.com/ackoroa",
+      "image": "images/teammembers/arnold.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Ivan Poon",
+      "url": "https://github.com/RavenXce",
+      "image": "images/teammembers/ivan.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "James Djuhartono",
+      "url": "https://github.com/jamesdjuhartono",
+      "image": "images/teammembers/jamesdjuhartono.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Ryan Chang",
+      "url": "https://github.com/rcyq",
+      "image": "images/teammembers/ryan.png",
+      "pastPositions": "Snr Developer"
+    },
+    {
+      "name": "Oo Theong Siang",
+      "image": "images/teammembers/theongsiang.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Hunar Khanna",
+      "image": "images/teammembers/hunar.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Qiao Liang",
+      "image": "images/teammembers/qiaoliang.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Tan How Cheng Kenny",
+      "image": "images/teammembers/kenny.png",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Goh Chun Teck",
+      "image": "images/teammembers/chunteck.png",
+      "pastPositions": "Project Lead, Area Lead, Snr Developer"
+    },
+    {
+      "name": "Wang Sha",
+      "image": "images/teammembers/wangsha.png",
+      "pastPositions": "Project Lead, Area Lead, Snr Developer"
+    },
+    {
+      "name": "Long Dam Tuan, James",
+      "image": "images/teammembers/james.png",
+      "pastPositions": "Project Lead, Area Lead, Snr Developer"
+    },
+    {
+      "name": "Aldrian Obaja",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Kalpit Jain",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Shakthi Priya Kathirvelu",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Zhang Xialin",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Huy Nguyen",
+      "pastPositions": "Area Lead, Snr Developer"
+    },
+    {
+      "name": "Gerald Goh",
+      "pastPositions": "Project Lead, Snr Developer"
+    },
+    {
+      "name": "Lai Xiaoni",
+      "pastPositions": "Project Lead, Snr Developer"
+    }
   ]
 }
